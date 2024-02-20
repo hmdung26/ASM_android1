@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Họ tên -->
+    <EditText
+        android:id="@+id/HoTenNVDG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Họ tên" />
+
+    <!-- Phòng ban -->
+    <EditText
+        android:id="@+id/PhongBanNVDG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Phòng ban" />
+
+    <!-- Email -->
+    <EditText
+        android:id="@+id/EmailNVDG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email" />
+
+    <!-- Ngày sinh -->
+    <EditText
+        android:id="@+id/NgaySinhNVDG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ngày sinh" />
+
+    <!-- Số điện thoại -->
+    <EditText
+        android:id="@+id/SDTNVDG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Số điện thoại" />
+
+    <!-- Tình trạng hôn nhân -->
+    <EditText
+        android:id="@+id/TinhTrangHonNhanNVDG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tình trạng hôn nhân" />
+
+    <!-- Chức vụ -->
+    <EditText
+        android:id="@+id/ChucVuNVDG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Chức vụ" />
+
+    <!-- Địa chỉ -->
+    <EditText
+        android:id="@+id/DiaChiNVDG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Địa chỉ" />
+
+    <!-- Nút Lưu -->
+
+
+</LinearLayout>
